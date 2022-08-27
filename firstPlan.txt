@@ -1,2 +1,3 @@
 abdul hafiz bahrain plan
 - make web program
+- rent hosting
